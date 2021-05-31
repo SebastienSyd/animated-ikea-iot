@@ -1,3 +1,5 @@
+tradfri_standalone_psk.conf
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
